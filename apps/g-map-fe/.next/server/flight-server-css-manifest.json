@@ -1,0 +1,16 @@
+{
+  "cssImports": {
+    "/Users/nefa/Documents/Work/G-Map/apps/g-map-fe/app/page.tsx": [
+      "/Users/nefa/Documents/Work/G-Map/apps/g-map-fe/app/page.module.scss"
+    ],
+    "/Users/nefa/Documents/Work/G-Map/apps/g-map-fe/app/layout.tsx": [
+      "/Users/nefa/Documents/Work/G-Map/apps/g-map-fe/app/global.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/nefa/Documents/Work/G-Map/apps/g-map-fe/app/page": [
+      "/Users/nefa/Documents/Work/G-Map/apps/g-map-fe/app/page.module.scss",
+      "/Users/nefa/Documents/Work/G-Map/apps/g-map-fe/app/global.css"
+    ]
+  }
+}
